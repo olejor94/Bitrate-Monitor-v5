@@ -9,6 +9,8 @@ Dynamisk plugin-arkitektur laster .dll-filer fra Plugins-mappen for ekstra funks
 
 
 
+
+
 English
 
 Monitors real-time bitrate from MediaMTX via a metrics URL.
