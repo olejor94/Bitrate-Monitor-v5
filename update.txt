@@ -1,0 +1,2 @@
+0.2.1
+https://github.com/olejor94/bitrate-monitor-for-mediamtx-and-scene-switcher/setup.exe
